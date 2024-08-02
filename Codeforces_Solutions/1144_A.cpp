@@ -18,6 +18,7 @@ bool solve(string s)
     }
     return true;
 }
+
 int main() {
     
     int t;
